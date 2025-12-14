@@ -109,7 +109,7 @@ h1, p {
 
     margin-top: -100px;
     padding: 300px 0;
-    background-image: url('./image/back.svg');
+    background-image: url('../image/back.svg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -185,7 +185,7 @@ h1, p {
     position: absolute;
     bottom: 4px;
     right: 12px;
-    background-image: url('.image/ci_external-link.png');
+    background-image: url('../image/ci_external-link.png');
     width: 30px;
     height: 30px;
     
@@ -570,7 +570,7 @@ h1, p {
 
     margin-top: -100px;
     padding: 200px 0;
-    background-image: url('.image/setka.svg');
+    background-image: url('../image/setka.svg');
     background-repeat: no-repeat;
     background-size: cover;
     min-width: 100vh;
@@ -755,7 +755,7 @@ h1, p {
 
     margin-top: -100px;
     padding: 200px 0;
-    background-image: url('.image/pidor.png');
+    background-image: url('../image/pidor.png');
     background-repeat: no-repeat;
     background-size: cover;
     min-width: 100vh;
@@ -1038,4 +1038,5 @@ h1, p {
 .palka__end {
     margin-bottom: 40px;
 }
+
 
